@@ -1,0 +1,121 @@
+[
+  {
+    "category_id": "CAT-0001",
+    "title": "Men's Fashion",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/mens-fashion.webp",
+    "path": "/categories/mens-fashion",
+    "products": [
+      "SKU-10240001",
+      "SKU-10240002",
+      "SKU-10240003",
+      "SKU-10240004",
+      "SKU-10240005",
+      "SKU-10240006",
+      "SKU-10240007"
+    ]
+  },
+  {
+    "category_id": "CAT-0002",
+    "title": "Women's Fashion",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/womens-fashion.webp",
+    "path": "/categories/womens-fashion",
+    "products": [
+      "SKU-10240008",
+      "SKU-10240009",
+      "SKU-10240010",
+      "SKU-10240011",
+      "SKU-10240012",
+      "SKU-10240013",
+      "SKU-10240014",
+      "SKU-10240015",
+      "SKU-10240016",
+      "SKU-10240017",
+      "SKU-10240018"
+    ]
+  },
+  {
+    "category_id": "CAT-0003",
+    "title": "Kids & Toys",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/kids-toys.webp",
+    "path": "/categories/kids-toys",
+    "products": [
+      "SKU-10240019",
+      "SKU-10240020",
+      "SKU-10240021",
+      "SKU-10240022",
+      "SKU-10240023",
+      "SKU-10240024",
+      "SKU-10240025",
+      "SKU-10240026"
+    ]
+  },
+  {
+    "category_id": "CAT-0004",
+    "title": "Accessories",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/accessories.webp",
+    "path": "/categories/accessories",
+    "products": [
+      "SKU-10240027",
+      "SKU-10240028",
+      "SKU-10240029",
+      "SKU-10240030",
+      "SKU-10240031",
+      "SKU-10240032",
+      "SKU-10240033",
+      "SKU-10240034",
+      "SKU-10240035"
+    ]
+  },
+  {
+    "category_id": "CAT-0005",
+    "title": "Cosmetics",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/cosmetics.webp",
+    "path": "/categories/cosmetics",
+    "products": [
+      "SKU-10240036",
+      "SKU-10240037",
+      "SKU-10240038",
+      "SKU-10240039",
+      "SKU-10240040",
+      "SKU-10240041",
+      "SKU-10240042",
+      "SKU-10240043"
+    ]
+  },
+  {
+    "category_id": "CAT-0006",
+    "title": "Shoes",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/shoes.webp",
+    "path": "/categories/shoes",
+    "products": [
+      "SKU-10240044",
+      "SKU-10240045",
+      "SKU-10240046",
+      "SKU-10240047",
+      "SKU-10240048",
+      "SKU-10240049",
+      "SKU-10240050",
+      "SKU-10240051",
+      "SKU-10240052",
+      "SKU-10240053",
+      "SKU-10240054",
+      "SKU-10240055"
+    ]
+  },
+  {
+    "category_id": "CAT-0007",
+    "title": "Sports",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/categories/sports.webp",
+    "path": "/categories/sports",
+    "products": [
+      "SKU-10240056",
+      "SKU-10240057",
+      "SKU-10240058",
+      "SKU-10240059",
+      "SKU-10240060",
+      "SKU-10240061",
+      "SKU-10240062",
+      "SKU-10240063"
+    ]
+  }
+]

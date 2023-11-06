@@ -1,0 +1,20 @@
+[
+  {
+    "provider": "credentials",
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "password": "12345678(hashneeded)"
+  },
+  {
+    "provider": "credentials",
+    "name": "Jane Doe",
+    "email": "janedoe@gmail.com",
+    "password": "12345678(hashneeded)"
+  },
+  {
+    "provider": "credentials",
+    "name": "Max Muster",
+    "email": "maxmuster@gmail.com",
+    "password": "12345678(hashneeded)"
+  }
+]

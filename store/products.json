@@ -1,0 +1,3452 @@
+[
+  {
+    "product_id": "SKU-10240001",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Colorful Winter Hat",
+    "path": "/products/colorful-winter-hat-10240001",
+    "description": "Stay warm and stylish this winter with our Colorful Winter Hat. This cozy hat is perfect for adding a pop of color to your winter wardrobe. Made with high-quality materials, it's designed to keep you comfortable in cold weather while making a fashion statement.",
+    "specification": [
+      "Material: Soft wool blend",
+      "Color: Various"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-1-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-1-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-1-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-1-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-1-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-1-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-1-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-1-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-1-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 20 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 29.99,
+      "withDiscount": 24.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "men's fashion",
+      "winter hat",
+      "colorful accessory",
+      "warm headwear"
+    ]
+  },
+  {
+    "product_id": "SKU-10240002",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Men's Classic Leather Jacket",
+    "path": "/products/mens-classic-leather-jacket-10240002",
+    "description": "Elevate your style with our Men's Classic Leather Jacket. This timeless jacket is crafted from genuine leather for a rugged yet sophisticated look. It's perfect for any occasion and will keep you warm during the colder months.",
+    "specification": [
+      "Material: Genuine leather",
+      "Color: Various",
+      "Lining: Polyester",
+      "Closure: Zipper"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-2-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-2-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-2-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-2-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-2-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-2-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-2-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-2-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-2-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-2-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-2-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-2-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 15 },
+      { "type": "M", "quantity": 20 },
+      { "type": "L", "quantity": 18 },
+      { "type": "XL", "quantity": 12 },
+      { "type": "XXL", "quantity": 8 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 199.99,
+      "withDiscount": 169.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "men's fashion",
+      "leather jacket",
+      "classic jacket",
+      "black leather"
+    ]
+  },
+  {
+    "product_id": "SKU-10240003",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Men's Casual Hoodie",
+    "path": "/products/mens-casual-hoodie-10240003",
+    "description": "Stay comfortable and stylish with our Men's Casual Hoodie. This versatile hoodie is the perfect addition to your wardrobe. It's made from a soft and durable cotton blend and is designed for everyday wear. Keep warm and fashionable with this classic hoodie.",
+    "specification": [
+      "Material: Cotton blend",
+      "Color: Various",
+      "Style: Pullover",
+      "Sleeve Length: Long"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-3-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-3-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-3-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-3-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-3-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-3-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-3-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-3-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-3-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 25 },
+      { "type": "M", "quantity": 30 },
+      { "type": "L", "quantity": 28 },
+      { "type": "XL", "quantity": 22 },
+      { "type": "XXL", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 18,
+      "ratingAverage": 4.66666667,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "men's fashion",
+      "men's hoodie",
+      "casual wear",
+      "fashionable pullover"
+    ]
+  },
+  {
+    "product_id": "SKU-10240004",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Men's Sports T-shirt",
+    "path": "/products/mens-sports-t-shirt-10240004",
+    "description": "Enhance your athletic performance with our Men's Sports T-shirt. This high-performance shirt is designed for active individuals. It's made from moisture-wicking fabric to keep you dry and comfortable during your workouts. Stay cool and stylish with this sports tee.",
+    "specification": [
+      "Material: Moisture-wicking fabric",
+      "Color: Various",
+      "Sleeve Length: Short",
+      "Fit: Athletic"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-4-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-4-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-4-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-4-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-4-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-4-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-4-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-4-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-4-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-4-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-4-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-4-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 30 },
+      { "type": "M", "quantity": 35 },
+      { "type": "L", "quantity": 32 },
+      { "type": "XL", "quantity": 28 },
+      { "type": "XXL", "quantity": 20 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 34.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 6,
+      "ratingAverage": 5,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "men's fashion",
+      "men's sports t-shirt",
+      "athletic wear",
+      "active clothing"
+    ]
+  },
+  {
+    "product_id": "SKU-10240005",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Sport Backpack",
+    "path": "/products/sport-backpack-10240005",
+    "description": "Carry your gear with ease using our Sport Backpack. This versatile backpack is designed for sports and outdoor activities. It features multiple compartments and is made from durable and water-resistant material to keep your belongings safe and dry.",
+    "specification": [
+      "Material: Water-resistant polyester",
+      "Color: Gray",
+      "Capacity: 20 liters",
+      "Compartments: Multiple"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-5-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-5-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-5-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-5-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-5-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-5-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-5-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-5-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-5-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-5-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-5-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-5-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 40 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 16,
+      "ratingAverage": 4.5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "men's fashion",
+      "sport backpack",
+      "outdoor gear",
+      "athletic accessories"
+    ]
+  },
+  {
+    "product_id": "SKU-10240006",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Men's Water-Resistant Jacket",
+    "path": "/products/mens-water-resistant-jacket-10240006",
+    "description": "Stay dry in style with our Men's Water-Resistant Jacket. This versatile jacket is designed to keep you protected from the elements. It's made from water-resistant material and features a comfortable fit for your outdoor activities.",
+    "specification": [
+      "Material: Water-resistant fabric",
+      "Color: Brown",
+      "Closure: Zipper",
+      "Hood: Removable"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-6-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-6-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-6-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-6-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-6-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-6-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-6-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-6-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-6-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-6-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-6-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-6-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 15 },
+      { "type": "M", "quantity": 20 },
+      { "type": "L", "quantity": 18 },
+      { "type": "XL", "quantity": 12 },
+      { "type": "XXL", "quantity": 8 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 79.99,
+      "withDiscount": 64.99,
+      "discountPercentage": 19
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "men's fashion",
+      "men's water-resistant jacket",
+      "outdoor wear",
+      "rain-resistant"
+    ]
+  },
+  {
+    "product_id": "SKU-10240007",
+    "category_id": "CAT-0001",
+    "category": "Men's Fashion",
+    "title": "Men's Winter Top Jacket",
+    "path": "/products/mens-winter-top-jacket-10240007",
+    "description": "Conquer the cold with our Men's Winter Top Jacket. This heavy-duty jacket is designed to keep you warm and comfortable in the harshest winter conditions. It's made from high-quality materials and features a classic design for a timeless look.",
+    "specification": [
+      "Material: Insulated fabric",
+      "Color: Charcoal Blue",
+      "Lining: Quilted",
+      "Closure: Zipper and button"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-7-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-7-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-7-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-7-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-7-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-7-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-7-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-7-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-7-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-7-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-7-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-7-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 10 },
+      { "type": "M", "quantity": 12 },
+      { "type": "L", "quantity": 15 },
+      { "type": "XL", "quantity": 8 },
+      { "type": "XXL", "quantity": 6 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 99.99,
+      "withDiscount": 84.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 16,
+      "ratingAverage": 5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "men's fashion",
+      "men's winter top jacket",
+      "heavy-duty outerwear",
+      "warm winter jacket"
+    ]
+  },
+  {
+    "product_id": "SKU-10240008",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Classic Black Leather Handbag",
+    "path": "/products/classic-black-leather-handbag-10240008",
+    "description": "Elevate your style with our Classic Black Leather Handbag. This timeless handbag is crafted from high-quality genuine leather for a sleek and elegant look. It's the perfect accessory for any occasion, and it will complement your outfit with sophistication.",
+    "specification": [
+      "Material: Genuine leather",
+      "Color: Black",
+      "Style: Classic",
+      "Closure: Zipper"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-8-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-8-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-8-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-8-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-8-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-8-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-8-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-8-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-8-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-8-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-8-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-8-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 149.99,
+      "withDiscount": 129.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 24,
+      "ratingAverage": 4.66666667,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "women's fashion",
+      "classic leather handbag",
+      "elegant accessory",
+      "timeless design"
+    ]
+  },
+  {
+    "product_id": "SKU-10240009",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Zebra Print Classic Hat",
+    "path": "/products/zebra-print-classic-hat-10240009",
+    "description": "Make a bold fashion statement with our Zebra Print Classic Hat. This eye-catching hat features a stylish zebra print that will turn heads wherever you go. It's made from high-quality materials and offers a classic design with a unique twist.",
+    "specification": [
+      "Material: Polyester",
+      "Color: Zebra Print",
+      "Style: Classic",
+      "Brim: Medium"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-9-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-9-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-9-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-9-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-9-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-9-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-9-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-9-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-9-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-9-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-9-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-9-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 30 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 40
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's fashion",
+      "classic hat",
+      "bold fashion accessory",
+      "stylish headwear"
+    ]
+  },
+  {
+    "product_id": "SKU-10240010",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Fashion Summer Dress",
+    "path": "/products/fashion-summer-dress-10240010",
+    "description": "Step into summer with style in our Fashion Summer Dress. This trendy dress is perfect for warm weather and features a chic design that's both comfortable and fashionable. It's made from lightweight materials to keep you cool and confident in the summer heat.",
+    "specification": [
+      "Material: Lightweight cotton blend",
+      "Color: Various",
+      "Style: Sleeveless",
+      "Length: Knee-length"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-10-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-10-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-10-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-10-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-10-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-10-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-10-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-10-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-10-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-10-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-10-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-10-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "XS", "quantity": 20 },
+      { "type": "S", "quantity": 25 },
+      { "type": "M", "quantity": 28 },
+      { "type": "L", "quantity": 22 },
+      { "type": "XL", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 59.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 35
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's fashion",
+      "fashion summer dress",
+      "summer fashion",
+      "trendy dress"
+    ]
+  },
+  {
+    "product_id": "SKU-10240011",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Ivory Color Handbag",
+    "path": "/products/ivory-color-handbag-10240011",
+    "description": "Add a touch of elegance to your ensemble with our Ivory Color Handbag. This sophisticated handbag features a beautiful ivory color that complements a wide range of outfits. It's made from high-quality materials and offers a classic design with a modern twist.",
+    "specification": [
+      "Material: Faux leather",
+      "Color: Ivory",
+      "Style: Classic",
+      "Closure: Zipper"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-11-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-11-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-11-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-11-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-11-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-11-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-11-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-11-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-11-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-11-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-11-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-11-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 35 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 64.99,
+      "withDiscount": 54.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 19,
+      "ratingAverage": 5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "women's fashion",
+      "women's accessory",
+      "ivory color handbag",
+      "versatile handbag"
+    ]
+  },
+  {
+    "product_id": "SKU-10240012",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Soft Jean Jacket",
+    "path": "/products/soft-jean-jacket-10240012",
+    "description": "Elevate your casual style with our Soft Jean Jacket. This comfortable jacket is a wardrobe essential, combining the classic jean jacket look with a soft and cozy feel. It's perfect for layering or wearing on its own to complete your everyday outfit.",
+    "specification": [
+      "Material: Soft denim",
+      "Color: Blue",
+      "Closure: Button",
+      "Sleeve Length: Long"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-12-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-12-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-12-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-12-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-12-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-12-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-12-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-12-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-12-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-12-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-12-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-12-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 18 },
+      { "type": "M", "quantity": 22 },
+      { "type": "L", "quantity": 25 },
+      { "type": "XL", "quantity": 20 },
+      { "type": "XXL", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 69.99,
+      "withDiscount": 59.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 16,
+      "ratingAverage": 4,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "women's fashion",
+      "soft jean jacket",
+      "casual outerwear",
+      "cozy denim"
+    ]
+  },
+  {
+    "product_id": "SKU-10240013",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Soft Jean Shirt",
+    "path": "/products/soft-jean-shirt-10240013",
+    "description": "Upgrade your wardrobe with our Soft Jean Shirt. This versatile shirt combines the classic denim shirt style with a soft and comfortable feel. It's perfect for a casual and laid-back look that keeps you stylish and relaxed.",
+    "specification": [
+      "Material: Soft denim",
+      "Color: Indigo Blue",
+      "Closure: Button",
+      "Sleeve Length: Long"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-13-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-13-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-13-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-13-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-13-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-13-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-13-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-13-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-13-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 20 },
+      { "type": "M", "quantity": 25 },
+      { "type": "L", "quantity": 28 },
+      { "type": "XL", "quantity": 22 },
+      { "type": "XXL", "quantity": 18 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "soft jean shirt",
+      "casual denim",
+      "comfortable shirt",
+      "laid-back style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240014",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Women Fur Overcoat",
+    "path": "/products/women-fur-overcoat-10240014",
+    "description": "Stay warm and elegant with our Women Fur Overcoat. This luxurious overcoat is designed to keep you cozy and stylish during the colder months. It features high-quality faux fur and a classic design that adds a touch of sophistication to your winter wardrobe.",
+    "specification": [
+      "Material: High-quality faux fur",
+      "Color: Various",
+      "Closure: Button",
+      "Length: Knee-length"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-14-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-14-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-14-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-14-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-14-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-14-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-14-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-14-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-14-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-14-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-14-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-14-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "XS", "quantity": 12 },
+      { "type": "S", "quantity": 15 },
+      { "type": "M", "quantity": 18 },
+      { "type": "L", "quantity": 14 },
+      { "type": "XL", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 139.99,
+      "withDiscount": 119.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 14,
+      "ratingAverage": 4.33333333,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "women fur overcoat",
+      "elegant outerwear",
+      "luxurious coat",
+      "winter fashion"
+    ]
+  },
+  {
+    "product_id": "SKU-10240015",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Women's Jean Skirt",
+    "path": "/products/womens-jean-skirt-10240015",
+    "description": "Add a trendy and classic piece to your wardrobe with our Women's Jean Skirt. This stylish skirt is a versatile addition that can be dressed up or down. It's made from high-quality denim and features a timeless design that complements a variety of outfits.",
+    "specification": [
+      "Material: Denim",
+      "Color: Blue",
+      "Style: A-line",
+      "Length: Knee-length"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-15-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-15-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-15-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-15-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-15-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-15-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-15-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-15-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-15-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "XS", "quantity": 20 },
+      { "type": "S", "quantity": 25 },
+      { "type": "M", "quantity": 28 },
+      { "type": "L", "quantity": 22 },
+      { "type": "XL", "quantity": 18 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 44.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 35
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's jean skirt",
+      "trendy skirt",
+      "classic denim",
+      "versatile fashion"
+    ]
+  },
+  {
+    "product_id": "SKU-10240016",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Women's Jean Short",
+    "path": "/products/womens-jean-short-10240016",
+    "description": "Stay comfortable and stylish in the summer with our Women's Jean Short. These classic shorts are a versatile addition to your wardrobe, perfect for casual and warm-weather occasions. They are made from high-quality denim and offer a timeless design for a fashionable look.",
+    "specification": [
+      "Material: Denim",
+      "Color: Blue",
+      "Style: Classic",
+      "Length: Short"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-16-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-16-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-16-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-16-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-16-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-16-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-16-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-16-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-16-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "XS", "quantity": 15 },
+      { "type": "S", "quantity": 18 },
+      { "type": "M", "quantity": 20 },
+      { "type": "L", "quantity": 16 },
+      { "type": "XL", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 39.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 25
+    },
+    "performance": {
+      "sales": 18,
+      "ratingAverage": 5,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "women's jean short",
+      "summer shorts",
+      "classic denim",
+      "casual fashion"
+    ]
+  },
+  {
+    "product_id": "SKU-10240017",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Women's Pink Handbag",
+    "path": "/products/womens-pink-handbag-10240017",
+    "description": "Add a pop of color to your outfit with our Women's Pink Handbag. This fashionable handbag features a beautiful pink color that's perfect for adding a touch of elegance to your look. It's made from high-quality materials and offers a stylish design for a chic appearance.",
+    "specification": [
+      "Material: Faux leather",
+      "Color: Pink",
+      "Style: Classic",
+      "Closure: Zipper"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-17-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-17-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-17-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-17-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-17-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-17-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-17-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-17-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-17-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-17-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-17-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-17-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 30 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 59.99,
+      "withDiscount": 49.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's pink handbag",
+      "stylish accessory",
+      "elegant design",
+      "pop of color"
+    ]
+  },
+  {
+    "product_id": "SKU-10240018",
+    "category_id": "CAT-0002",
+    "category": "Women's Fashion",
+    "title": "Women's Colorful Scarf",
+    "path": "/products/womens-colorful-scarf-10240018",
+    "description": "Brighten up your look with our Women's Colorful Scarf. This vibrant scarf is designed to add a pop of color to your outfit. It's made from soft and lightweight fabric, making it perfect for all seasons. Wrap yourself in style with this chic and versatile accessory.",
+    "specification": [
+      "Material: Lightweight fabric",
+      "Color: Various",
+      "Style: Rectangle",
+      "Length: Long"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-18-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-18-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-18-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-18-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-18-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-18-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-18-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-18-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-18-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-18-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-18-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-18-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 40 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 24.99,
+      "withDiscount": 19.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's colorful scarf",
+      "vibrant accessory",
+      "versatile fashion",
+      "stylish wrap"
+    ]
+  },
+  {
+    "product_id": "SKU-10240019",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Baby Milk Bottle",
+    "path": "/products/baby-milk-bottle-10240019",
+    "description": "Ensure your baby's nutrition with our Baby Milk Bottle. This bottle is designed for safe and convenient feeding. It's made from BPA-free materials and features an easy-to-hold design for both babies and parents.",
+    "specification": [
+      "Material: BPA-free plastic",
+      "Capacity: 8 ounces",
+      "Nipple: Silicone",
+      "Anti-Colic: Yes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-19-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-19-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-19-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-19-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-19-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-19-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-19-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-19-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-19-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-19-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-19-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-19-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "Single", "quantity": 50 },
+      { "type": "Set of 2", "quantity": 30 },
+      { "type": "Set of 3", "quantity": 20 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 9.99,
+      "withDiscount": 7.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "baby milk bottle",
+      "feeding bottle",
+      "safe for babies",
+      "convenient feeding"
+    ]
+  },
+  {
+    "product_id": "SKU-10240020",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Brown Baby Shoes",
+    "path": "/products/brown-baby-shoes-10240020",
+    "description": "Keep your little one's feet stylish and comfortable with our Brown Baby Shoes. These adorable shoes are designed for infants and provide both fashion and function. They are made from soft and baby-friendly materials to ensure a cozy fit for your baby.",
+    "specification": [
+      "Material: Soft fabric",
+      "Color: Brown",
+      "Closure: Hook and loop",
+      "Size: Newborn to 12 months"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-20-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-20-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-20-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-20-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-20-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-20-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-20-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-20-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-20-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-20-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-20-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-20-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "Newborn", "quantity": 15 },
+      { "type": "0-3 months", "quantity": 20 },
+      { "type": "3-6 months", "quantity": 25 },
+      { "type": "6-12 months", "quantity": 18 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 14.99,
+      "withDiscount": 12.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 3,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "brown baby shoes",
+      "infant footwear",
+      "baby-friendly materials",
+      "stylish and cozy"
+    ]
+  },
+  {
+    "product_id": "SKU-10240021",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Lime Baby Shoes",
+    "path": "/products/lime-baby-shoes-10240021",
+    "description": "Add a pop of color to your baby's wardrobe with our Lime Baby Shoes. These adorable shoes are designed for infants and provide both style and comfort. They are made from soft and baby-friendly materials to ensure a cozy fit for your little one.",
+    "specification": [
+      "Material: Soft fabric",
+      "Color: Lime Green",
+      "Closure: Hook and loop",
+      "Size: Newborn to 12 months"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-21-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-21-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-21-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-21-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-21-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-21-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-21-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-21-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-21-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "Newborn", "quantity": 15 },
+      { "type": "0-3 months", "quantity": 20 },
+      { "type": "3-6 months", "quantity": 25 },
+      { "type": "6-12 months", "quantity": 18 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 16.99,
+      "withDiscount": 13.99,
+      "discountPercentage": 18
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "lime baby shoes",
+      "infant footwear",
+      "baby-friendly materials",
+      "colorful and cozy"
+    ]
+  },
+  {
+    "product_id": "SKU-10240022",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Children's Checkered Shirt",
+    "path": "/products/childrens-checkered-shirt-10240022",
+    "description": "Dress your child in style with our Children's Checkered Shirt. This trendy shirt is designed for kids and offers a fashionable look with a classic checkered pattern. It's made from soft and breathable materials for all-day comfort.",
+    "specification": [
+      "Material: Cotton",
+      "Color: Checkered pattern",
+      "Style: Button-up",
+      "Sleeve Length: Long"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-22-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-22-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-22-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-22-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-22-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-22-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-22-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-22-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-22-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-22-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-22-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-22-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "2T", "quantity": 20 },
+      { "type": "3T", "quantity": 25 },
+      { "type": "4T", "quantity": 28 },
+      { "type": "5T", "quantity": 22 },
+      { "type": "6T", "quantity": 18 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 33.99,
+      "withDiscount": 19.99,
+      "discountPercentage": 40
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "children's checkered shirt",
+      "kids' fashion",
+      "trendy pattern",
+      "comfortable wear"
+    ]
+  },
+  {
+    "product_id": "SKU-10240023",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Plush Dog Toy",
+    "path": "/products/plush-dog-toy-10240023",
+    "description": "Delight your child with our Plush Dog Toy. This adorable plush toy is perfect for kids and provides a soft and huggable companion. It's made from child-safe materials and is designed to be a lovable playmate for your little one.",
+    "specification": [
+      "Material: Plush fabric",
+      "Color: Brown and White",
+      "Type: Stuffed animal",
+      "Size: Medium"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-23-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-23-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-23-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-23-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-23-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-23-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-23-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-23-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-23-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 20 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 19.99,
+      "withDiscount": 16.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 5,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "plush dog child toy",
+      "soft and huggable",
+      "child-safe materials",
+      "lovable playmate"
+    ]
+  },
+  {
+    "product_id": "SKU-10240024",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Pink Baby Dress",
+    "path": "/products/pink-baby-dress-10240024",
+    "description": "Dress your little one in style with our Pink Baby Dress. This adorable dress is designed for infants and provides both fashion and comfort. It's made from soft and breathable materials, perfect for your baby's special occasions.",
+    "specification": [
+      "Material: Cotton",
+      "Color: Pink",
+      "Style: A-line",
+      "Size: Newborn to 12 months"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-24-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-24-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-24-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-24-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-24-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-24-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-24-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-24-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-24-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-24-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-24-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-24-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "0-3 months", "quantity": 12 },
+      { "type": "3-6 months", "quantity": 12 },
+      { "type": "6-12 months", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 34.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "pink baby dress",
+      "infant fashion",
+      "comfortable wear",
+      "special occasions"
+    ]
+  },
+  {
+    "product_id": "SKU-10240025",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Plush Horse Toy",
+    "path": "/products/plush-horse-toy-10240025",
+    "description": "Delight your child with our Plush Horse Toy. This adorable plush toy is perfect for kids and provides a huggable and imaginative playtime companion. It's made from soft and durable materials for endless fun.",
+    "specification": [
+      "Material: Plush fabric",
+      "Color: Brown",
+      "Type: Stuffed animal",
+      "Size: Large"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-25-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-25-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-25-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-25-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-25-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-25-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-25-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-25-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-25-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 30 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 24.99,
+      "withDiscount": 19.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "plush horse toy",
+      "child's playtime",
+      "soft and huggable",
+      "endless fun"
+    ]
+  },
+  {
+    "product_id": "SKU-10240026",
+    "category_id": "CAT-0003",
+    "category": "Kids & Toys",
+    "title": "Teddy Bear",
+    "path": "/products/teddy-bear-10240026",
+    "description": "Cuddle up with our Teddy Bear. This classic plush bear is perfect for kids and adults alike. It's made from soft and huggable materials and is ready to become your new cuddly companion.",
+    "specification": [
+      "Material: Plush fabric",
+      "Color: Brown",
+      "Type: Stuffed animal",
+      "Size: Medium"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-26-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-26-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-26-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-26-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-26-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-26-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-26-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-26-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-26-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-26-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-26-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-26-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 40 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 19.99,
+      "withDiscount": 16.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 7,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "teddy bear",
+      "plush bear",
+      "soft and huggable",
+      "cuddly companion"
+    ]
+  },
+  {
+    "product_id": "SKU-10240027",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Black Automatic Watch",
+    "path": "/products/black-automatic-watch-10240027",
+    "description": "Elevate your style with our Black Automatic Watch. This elegant timepiece is designed for those who appreciate craftsmanship and precision. It features a sleek black design and automatic movement for a sophisticated look.",
+    "specification": [
+      "Material: Stainless steel",
+      "Color: Black",
+      "Movement: Automatic",
+      "Water Resistance: 50 meters"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-27-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-27-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-27-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-27-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-27-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-27-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-27-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-27-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-27-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-27-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-27-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-27-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 14 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 199.99,
+      "withDiscount": 169.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 22,
+      "ratingAverage": 5,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "black automatic watch",
+      "elegant timepiece",
+      "craftsmanship",
+      "precision"
+    ]
+  },
+  {
+    "product_id": "SKU-10240028",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Black Leather Wallet",
+    "path": "/products/black-leather-wallet-10240028",
+    "description": "Stay organized and stylish with our Black Leather Wallet. This sophisticated wallet is designed for both practicality and fashion. It's made from genuine leather and offers ample storage for your essentials.",
+    "specification": [
+      "Material: Genuine leather",
+      "Color: Black",
+      "Design: Bifold",
+      "Compartments: Multiple"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-28-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-28-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-28-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-28-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-28-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-28-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-28-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-28-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-28-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-28-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-28-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-28-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 39.99,
+      "withDiscount": 34.99,
+      "discountPercentage": 12
+    },
+    "performance": {
+      "sales": 9,
+      "ratingAverage": 5,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "black leather wallet",
+      "stylish accessory",
+      "genuine leather",
+      "ample storage"
+    ]
+  },
+  {
+    "product_id": "SKU-10240029",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Brown Leather Wallet",
+    "path": "/products/brown-leather-wallet-10240029",
+    "description": "Stay organized and stylish with our Brown Leather Wallet. This sophisticated wallet is designed for both practicality and fashion. It's made from genuine leather and offers ample storage for your essentials.",
+    "specification": [
+      "Material: Genuine leather",
+      "Color: Brown",
+      "Design: Bifold",
+      "Compartments: Multiple"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-29-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-29-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-29-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-29-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-29-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-29-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-29-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-29-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-29-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-29-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-29-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-29-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 23 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 42.99,
+      "withDiscount": 37.99,
+      "discountPercentage": 11
+    },
+    "performance": {
+      "sales": 7,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "brown leather wallet",
+      "stylish accessory",
+      "genuine leather",
+      "ample storage"
+    ]
+  },
+  {
+    "product_id": "SKU-10240030",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Brown Classic Watch",
+    "path": "/products/brown-classic-watch-10240030",
+    "description": "Enhance your style with our Brown Classic Watch. This timeless timepiece combines classic design with modern features. It features a brown leather strap and a precision quartz movement.",
+    "specification": [
+      "Material: Stainless steel case, leather strap",
+      "Color: Brown",
+      "Movement: Quartz",
+      "Water Resistance: 30 meters"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-30-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-30-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-30-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-30-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-30-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-30-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-30-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-30-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-30-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-30-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-30-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-30-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 159.99,
+      "withDiscount": 119.99,
+      "discountPercentage": 25
+    },
+    "performance": {
+      "sales": 17,
+      "ratingAverage": 5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "brown classic watch",
+      "timeless design",
+      "modern features",
+      "leather strap"
+    ]
+  },
+  {
+    "product_id": "SKU-10240031",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Diamond Ring",
+    "path": "/products/diamond-ring-10240031",
+    "description": "Elevate your elegance with our Diamond Ring. This exquisite ring features a brilliant-cut diamond set in a white gold band. It's a perfect choice for engagements, anniversaries, or any special occasion.",
+    "specification": [
+      "Material: 14K Gold",
+      "Stone: Diamond (Brilliant-cut)",
+      "Color: Gold",
+      "Size: Various"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-31-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-31-2.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-31-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-31-2.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-31-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-31-2.webp"
+      ]
+    },
+    "stock": [
+      { "type": "Dimension: 7", "quantity": 2 },
+      { "type": "Dimension: 8", "quantity": 2 },
+      { "type": "Dimension: 9", "quantity": 2 },
+      { "type": "Dimension: 9.5", "quantity": 2 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 499.99,
+      "withDiscount": 449.99,
+      "discountPercentage": 10
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "diamond ring",
+      "elegant jewelry",
+      "brilliant-cut diamond",
+      "white gold band"
+    ]
+  },
+  {
+    "product_id": "SKU-10240032",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Fashionable Blue Towel",
+    "path": "/products/fashionable-blue-towel-10240032",
+    "description": "Upgrade your bath experience with our Fashionable Blue Towel. This soft and absorbent towel not only dries you off but also adds a touch of style to your bathroom. It's made from high-quality cotton for comfort and durability.",
+    "specification": [
+      "Material: 100% Cotton",
+      "Color: Blue",
+      "Size: Standard (30 x 60 inches)"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-32-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-32-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-32-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-32-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-32-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-32-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-32-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-32-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-32-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-32-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-32-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-32-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 45 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 17.99,
+      "withDiscount": 9.99,
+      "discountPercentage": 40
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "fashionable blue towel",
+      "soft and absorbent",
+      "high-quality cotton",
+      "bathroom style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240033",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Fashionable Purple Glasses",
+    "path": "/products/fashionable-purple-glasses-10240033",
+    "description": "Elevate your style with our Fashionable Purple Glasses. These stylish glasses not only protect your eyes from the sun but also add a trendy touch to your outfit. They feature purple frames and UV protection lenses.",
+    "specification": [
+      "Frame Material: Plastic",
+      "Lens Material: Polycarbonate",
+      "Lens Color: Purple"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-33-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-33-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-33-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-33-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-33-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-33-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-33-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-33-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-33-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-33-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-33-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-33-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 14 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 29.99,
+      "withDiscount": 24.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 3,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "fashionable purple glasses",
+      "stylish eyewear",
+      "trendy frames",
+      "UV protection"
+    ]
+  },
+  {
+    "product_id": "SKU-10240034",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Men's Colorful Belt",
+    "path": "/products/mens-colorful-belt-10240034",
+    "description": "Add a pop of color to your outfit with our Men's Colorful Belt. This stylish belt is designed for men and is a perfect way to enhance your style. It features a vibrant, colorful design and a durable metal buckle.",
+    "specification": [
+      "Material: Leather",
+      "Color: Various",
+      "Size: Adjustable"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-34-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-34-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-34-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-34-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-34-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-34-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-34-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-34-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-34-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-34-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-34-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-34-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 34.99,
+      "withDiscount": 29.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 8,
+      "ratingAverage": 5,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "men's colorful belt",
+      "stylish accessory",
+      "vibrant design",
+      "durable metal buckle"
+    ]
+  },
+  {
+    "product_id": "SKU-10240035",
+    "category_id": "CAT-0004",
+    "category": "Accessories",
+    "title": "Men's Leather Belt",
+    "path": "/products/mens-leather-belt-10240035",
+    "description": "Complete your outfit with our Men's Leather Belt. This classic belt is designed for men and offers both style and functionality. It's made from genuine leather and features a durable metal buckle.",
+    "specification": [
+      "Material: Genuine Leather",
+      "Color: Brown",
+      "Size: Adjustable"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-35-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-35-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-35-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-35-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-35-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-35-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-35-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-35-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-35-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-35-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-35-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-35-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 39.99,
+      "withDiscount": 34.99,
+      "discountPercentage": 12
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "men's leather belt",
+      "classic accessory",
+      "genuine leather",
+      "durable metal buckle"
+    ]
+  },
+  {
+    "product_id": "SKU-10240036",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Ampoule Blusher",
+    "path": "/products/ampoule-blusher-10240036",
+    "description": "Enhance your natural beauty with our Ampoule Blusher. This versatile blusher adds a healthy flush of color to your cheeks and is easy to blend for a flawless finish.",
+    "specification": [
+      "Color: Various shades",
+      "Type: Powder blush",
+      "Size: Compact"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-36-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-36-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-36-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-36-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-36-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-36-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-36-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-36-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-36-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-36-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-36-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-36-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 14.99,
+      "withDiscount": 12.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "ampoule blusher",
+      "cheek color",
+      "flawless finish",
+      "beauty product"
+    ]
+  },
+  {
+    "product_id": "SKU-10240037",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Cosmetic Cream",
+    "path": "/products/cosmetic-cream-10240037",
+    "description": "Nourish your skin with our Cosmetic Cream. This hydrating cream is designed to moisturize and revitalize your skin, leaving it soft and radiant. It's suitable for daily use.",
+    "specification": [
+      "Skin Type: All skin types",
+      "Size: 50ml",
+      "Fragrance: Fragrance-free"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-37-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-37-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-37-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-37-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-37-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-37-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-37-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-37-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-37-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-37-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-37-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-37-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 25 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 24.99,
+      "withDiscount": 19.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 3,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "cosmetic cream",
+      "skin nourishment",
+      "moisturizing",
+      "radiant skin"
+    ]
+  },
+  {
+    "product_id": "SKU-10240038",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Endermic Oil",
+    "path": "/products/endermic-oil-10240038",
+    "description": "Indulge in luxurious skincare with our Endermic Oil. This oil is enriched with natural ingredients to rejuvenate and hydrate your skin. It's ideal for a soothing massage or daily moisturization.",
+    "specification": [
+      "Ingredients: Natural oils",
+      "Size: 100ml",
+      "Usage: Massage or moisturization"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-38-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-38-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-38-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-38-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-38-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-38-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-38-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-38-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-38-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-38-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-38-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-38-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 9 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 29.99,
+      "withDiscount": 24.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 8,
+      "ratingAverage": 4,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "endermic oil",
+      "luxurious skincare",
+      "natural ingredients",
+      "skin rejuvenation"
+    ]
+  },
+  {
+    "product_id": "SKU-10240039",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Facial Brush",
+    "path": "/products/facial-brush-10240039",
+    "description": "Elevate your skincare routine with our Facial Brush. This soft-bristle brush gently exfoliates your skin, leaving it feeling refreshed and revitalized. It's suitable for daily use.",
+    "specification": [
+      "Bristle Material: Soft synthetic bristles",
+      "Size: Compact",
+      "Usage: Exfoliation"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-39-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-39-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-39-3.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-39-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-39-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-39-3.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-39-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-39-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-39-3.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 9.99,
+      "withDiscount": 7.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 6,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "facial brush",
+      "skincare",
+      "gentle exfoliation",
+      "refreshed skin"
+    ]
+  },
+  {
+    "product_id": "SKU-10240040",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Lip Stain",
+    "path": "/products/lip-stain-10240040",
+    "description": "Enhance your lips with our Lip Stain. This long-lasting lip stain provides vibrant and kiss-proof color. It's perfect for all-day wear and comes in a variety of shades.",
+    "specification": [
+      "Color: Various shades",
+      "Type: Lip stain",
+      "Size: 10ml"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-40-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-40-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-40-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-40-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-40-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-40-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-40-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-40-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-40-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-40-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-40-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-40-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 12.99,
+      "withDiscount": 10.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "lip stain",
+      "vibrant color",
+      "long-lasting",
+      "kiss-proof"
+    ]
+  },
+  {
+    "product_id": "SKU-10240041",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Makeup Brush",
+    "path": "/products/makeup-brush-10240041",
+    "description": "Add drama to your lashes with our Makeup Brush. This brush volumizes and lengthens your eyelashes for a stunning look. It's smudge-proof and suitable for daily use.",
+    "specification": [
+      "Color: Black",
+      "Type: Brush",
+      "Size: 8ml"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-41-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-41-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-41-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-41-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-41-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-41-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-41-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-41-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-41-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-41-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-41-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-41-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 14 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 14.99,
+      "withDiscount": 12.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 12,
+      "ratingAverage": 5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "makeup mascara",
+      "volumizing mascara",
+      "smudge-proof",
+      "dramatic lashes"
+    ]
+  },
+  {
+    "product_id": "SKU-10240042",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Orange Lipstick",
+    "path": "/products/orange-lipstick-10240042",
+    "description": "Get a bold look with our Orange Lipstick. This vibrant lipstick adds a burst of color to your lips, and it's designed to be long-lasting and smudge-proof.",
+    "specification": [
+      "Color: Orange",
+      "Type: Lipstick",
+      "Size: 3 inches"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-42-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-42-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-42-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-42-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-42-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-42-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-42-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-42-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-42-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-42-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-42-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-42-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 11.99,
+      "withDiscount": 9.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 2,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "orange lipstick",
+      "vibrant color",
+      "long-lasting",
+      "smudge-proof"
+    ]
+  },
+  {
+    "product_id": "SKU-10240043",
+    "category_id": "CAT-0005",
+    "category": "Cosmetics",
+    "title": "Pink Lipstick",
+    "path": "/products/pink-lipstick-10240043",
+    "description": "Add a touch of pink to your lips with our Pink Lipstick. This lovely lipstick provides a natural and long-lasting pink tint to your lips.",
+    "specification": [
+      "Color: Pink",
+      "Type: Lipstick",
+      "Size: 3 inches"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-43-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-43-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-43-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-43-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-43-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-43-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-43-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-43-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-43-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-43-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-43-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-43-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 12.99,
+      "withDiscount": 10.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 2,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "pink lipstick",
+      "natural tint",
+      "long-lasting",
+      "lovely lips"
+    ]
+  },
+  {
+    "product_id": "SKU-10240044",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Blue Leather Shoes",
+    "path": "/products/blue-leather-shoes-10240044",
+    "description": "Step out in style with our Blue Leather Shoes. These elegant shoes are made from high-quality leather and feature a classic design. They're perfect for both formal and casual occasions.",
+    "specification": [
+      "Material: Genuine Leather",
+      "Color: Blue",
+      "Type: Lace-up shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-44-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-44-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-44-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-44-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-44-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-44-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-44-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-44-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-44-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-44-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-44-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-44-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 79.99,
+      "withDiscount": 69.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 3,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "blue leather shoes",
+      "elegant footwear",
+      "genuine leather",
+      "classic design"
+    ]
+  },
+  {
+    "product_id": "SKU-10240045",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Daisy Fashion Shoes",
+    "path": "/products/daisy-fashion-shoes-10240045",
+    "description": "Walk in style with our Daisy Fashion Shoes. These trendy shoes feature a daisy pattern design, making them a fashionable choice for casual outings. They're comfortable and perfect for everyday wear.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: Various",
+      "Type: Slip-on shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-45-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-45-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-45-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-45-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-45-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-45-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-45-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-45-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-45-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-45-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-45-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-45-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 20
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "daisy fashion shoes",
+      "trendy footwear",
+      "daisy pattern",
+      "casual style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240046",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Comfortable Shoes",
+    "path": "/products/comfortable-shoes-10240046",
+    "description": "Stay comfortable all day with our Comfortable Shoes. These shoes are designed for maximum comfort and support. They're perfect for active individuals and daily wear.",
+    "specification": [
+      "Material: Breathable fabric",
+      "Color: Black",
+      "Type: Lace-up shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-46-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-46-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-46-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-46-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-46-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-46-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-46-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-46-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-46-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-46-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-46-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-46-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 59.99,
+      "withDiscount": 49.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "comfortable shoes",
+      "maximum comfort",
+      "active footwear",
+      "all-day support"
+    ]
+  },
+  {
+    "product_id": "SKU-10240047",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Daisy Brown Shoes",
+    "path": "/products/daisy-brown-shoes-10240047",
+    "description": "Add a touch of style to your look with our Daisy Brown Shoes. These shoes feature a daisy pattern design and are perfect for casual outings. They're comfortable and versatile for everyday wear.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: Brown",
+      "Type: Slip-on shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-47-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-47-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-47-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-47-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-47-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-47-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-47-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-47-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-47-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-47-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-47-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-47-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 44.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 11
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "daisy brown shoes",
+      "stylish footwear",
+      "daisy pattern",
+      "casual style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240048",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Men's Leather Shoes",
+    "path": "/products/mens-leather-shoes-10240048",
+    "description": "Step out in confidence with our Men's Leather Shoes. These classic leather shoes are perfect for formal occasions and are designed for durability and style.",
+    "specification": [
+      "Material: Genuine Leather",
+      "Color: Black",
+      "Type: Oxford shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-48-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-48-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-48-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-48-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-48-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-48-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-48-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-48-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-48-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-48-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-48-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-48-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 89.99,
+      "withDiscount": 79.99,
+      "discountPercentage": 11
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "men's leather shoes",
+      "classic footwear",
+      "genuine leather",
+      "formal style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240049",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Men's Black Shoes",
+    "path": "/products/mens-black-shoes-10240049",
+    "description": "Achieve a sleek and classic look with our Men's Black Shoes. These black shoes are perfect for formal occasions, crafted with high-quality materials for both style and comfort.",
+    "specification": [
+      "Material: Genuine Leather",
+      "Color: Black",
+      "Type: Lace-up shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-49-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-49-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-49-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-49-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-49-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-49-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-49-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-49-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-49-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-49-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-49-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-49-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 79.99,
+      "withDiscount": 69.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 12,
+      "ratingAverage": 4.5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "men's black shoes",
+      "classic footwear",
+      "genuine leather",
+      "formal style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240050",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Sport Super Shoes",
+    "path": "/products/sport-super-shoes-10240050",
+    "description": "Enhance your athletic performance with our Sport Super Shoes. These shoes are designed for sports and physical activities, providing the support and cushioning you need.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: Various",
+      "Type: Athletic shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-50-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-50-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-50-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-50-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-50-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-50-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-50-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-50-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-50-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-50-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-50-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-50-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 69.99,
+      "withDiscount": 59.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 8,
+      "ratingAverage": 5,
+      "ratingCount": 1
+    },
+    "keywords": [
+      "sport super shoes",
+      "athletic footwear",
+      "support and cushioning",
+      "enhanced performance"
+    ]
+  },
+  {
+    "product_id": "SKU-10240051",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Strong Training Shoes",
+    "path": "/products/strong-training-shoes-10240051",
+    "description": "Maximize your workout with our Strong Training Shoes. These shoes are built to endure the most rigorous training sessions, offering stability and durability for all fitness enthusiasts.",
+    "specification": [
+      "Material: Mesh and synthetic",
+      "Color: Black/Gray",
+      "Type: Training shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-51-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-51-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-51-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-51-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-51-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-51-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-51-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-51-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-51-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-51-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-51-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-51-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 64.99,
+      "withDiscount": 54.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "strong training shoes",
+      "fitness footwear",
+      "stability and durability",
+      "maximized workouts"
+    ]
+  },
+  {
+    "product_id": "SKU-10240052",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Summer Sport Shoes",
+    "path": "/products/summer-sport-shoes-10240052",
+    "description": "Stay active and comfortable during the summer with our Summer Sport Shoes. These shoes are designed for warm-weather activities and provide the support and breathability you need.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: Various",
+      "Type: Athletic shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-52-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-52-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-52-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-52-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-52-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-52-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-52-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-52-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-52-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-52-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-52-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-52-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "37", "quantity": 7 },
+      { "type": "38", "quantity": 9 },
+      { "type": "39", "quantity": 6 },
+      { "type": "40", "quantity": 8 },
+      { "type": "41", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 69.99,
+      "withDiscount": 59.99,
+      "discountPercentage": 14
+    },
+    "performance": {
+      "sales": 7,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "summer sport shoes",
+      "warm-weather footwear",
+      "support and breathability",
+      "active comfort"
+    ]
+  },
+  {
+    "product_id": "SKU-10240053",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Women Sport Shoes",
+    "path": "/products/women-sport-shoes-10240053",
+    "description": "Embrace an active lifestyle with our Women Sport Shoes. These athletic shoes are designed for women, offering comfort and support for various physical activities.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: Various",
+      "Type: Athletic shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-53-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-53-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-53-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-53-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-53-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-53-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-53-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-53-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-53-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-53-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-53-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-53-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "36", "quantity": 7 },
+      { "type": "37", "quantity": 6 },
+      { "type": "38", "quantity": 10 },
+      { "type": "39", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 59.99,
+      "withDiscount": 49.99,
+      "discountPercentage": 16
+    },
+    "performance": {
+      "sales": 16,
+      "ratingAverage": 4.66666667,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "women sport shoes",
+      "athletic footwear",
+      "comfort and support",
+      "active lifestyle"
+    ]
+  },
+  {
+    "product_id": "SKU-10240054",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Women's White Shoes",
+    "path": "/products/womens-white-shoes-10240054",
+    "description": "Step out in style with our Women's White Shoes. These classic white shoes are versatile and suitable for various occasions, offering a timeless and elegant look.",
+    "specification": [
+      "Material: Synthetic",
+      "Color: White",
+      "Type: Slip-on shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-54-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-54-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-54-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-54-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-54-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-54-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-54-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-54-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-54-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-54-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-54-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-54-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "36", "quantity": 7 },
+      { "type": "37", "quantity": 6 },
+      { "type": "38", "quantity": 10 },
+      { "type": "39", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 54.99,
+      "withDiscount": 49.99,
+      "discountPercentage": 9
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's white shoes",
+      "classic footwear",
+      "timeless elegance",
+      "versatile style"
+    ]
+  },
+  {
+    "product_id": "SKU-10240055",
+    "category_id": "CAT-0006",
+    "category": "Shoes",
+    "title": "Women's Fashion Shoes",
+    "path": "/products/womens-fashion-shoes-10240055",
+    "description": "Elevate your style with our Women's Fashion Shoes. These fashionable shoes feature a trendy design and are perfect for adding a stylish touch to your everyday look.",
+    "specification": [
+      "Material: Fabric",
+      "Color: Various",
+      "Type: Lace-up shoes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-55-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-55-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-55-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-55-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-55-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-55-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-55-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-55-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-55-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-55-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-55-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-55-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "36", "quantity": 7 },
+      { "type": "37", "quantity": 6 },
+      { "type": "38", "quantity": 10 },
+      { "type": "39", "quantity": 10 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 49.99,
+      "withDiscount": 44.99,
+      "discountPercentage": 10
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "women's fashion shoes",
+      "stylish footwear",
+      "trendy design",
+      "fashionable look"
+    ]
+  },
+  {
+    "product_id": "SKU-10240056",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Basket Ball",
+    "path": "/products/basket-ball-10240056",
+    "description": "Get ready for some action on the court with our high-quality Basket Ball. This basketball is designed for durability and optimal performance, making it perfect for both casual and competitive games.",
+    "specification": [
+      "Material: Synthetic leather",
+      "Size: Official size and weight",
+      "Recommended Use: Indoor and outdoor"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-56-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-56-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-56-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-56-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-56-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-56-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-56-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-56-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-56-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-56-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-56-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-56-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 40 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 29.99,
+      "withDiscount": 24.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 4,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "basket ball",
+      "sports equipment",
+      "durable design",
+      "optimal performance"
+    ]
+  },
+  {
+    "product_id": "SKU-10240057",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Pushup Tools",
+    "path": "/products/pushup-tools-10240057",
+    "description": "Take your home workouts to the next level with our Pushup Tools. These pushup handles are designed to reduce wrist strain and provide a comfortable grip for effective upper body workouts.",
+    "specification": [
+      "Material: Durable plastic",
+      "Color: Black",
+      "Usage: Home workouts"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-57-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-57-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-57-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-57-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-57-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-57-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-57-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-57-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-57-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-57-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-57-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-57-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 20 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 14.99,
+      "withDiscount": 12.99,
+      "discountPercentage": 13
+    },
+    "performance": {
+      "sales": 14,
+      "ratingAverage": 4.5,
+      "ratingCount": 2
+    },
+    "keywords": [
+      "pushup tools",
+      "home workouts",
+      "wrist strain reduction",
+      "upper body exercises"
+    ]
+  },
+  {
+    "product_id": "SKU-10240058",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Ski Goggles",
+    "path": "/products/ski-goggles-10240058",
+    "description": "Hit the slopes with confidence using our Ski Goggles. These goggles provide clear vision, UV protection, and comfort during your skiing adventures. They're designed to fit over most helmets.",
+    "specification": [
+      "Lens Type: Double-layer anti-fog",
+      "Frame Color: Black",
+      "UV Protection: Yes",
+      "Adjustable Strap: Yes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-58-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-58-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-58-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-58-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-58-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-58-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-58-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-58-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-58-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-58-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-58-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-58-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 69.99,
+      "withDiscount": 39.99,
+      "discountPercentage": 40
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "ski goggles",
+      "snow sports",
+      "clear vision",
+      "UV protection"
+    ]
+  },
+  {
+    "product_id": "SKU-10240059",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Sky Boots",
+    "path": "/products/sky-boots-10240059",
+    "description": "Conquer the mountains with our Sky Boots. These sturdy hiking boots are built for tough terrains and provide ankle support and waterproof protection. They're perfect for outdoor adventures.",
+    "specification": [
+      "Material: Leather and waterproof fabric",
+      "Color: Brown",
+      "Ankle Support: Yes",
+      "Waterproof: Yes"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-59-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-59-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-59-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-59-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-59-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-59-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-59-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-59-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-59-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-59-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-59-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-59-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 15 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 89.99,
+      "withDiscount": 79.99,
+      "discountPercentage": 11
+    },
+    "performance": {
+      "sales": 6,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "sky boots",
+      "hiking footwear",
+      "ankle support",
+      "waterproof protection"
+    ]
+  },
+  {
+    "product_id": "SKU-10240060",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Sports Gloves",
+    "path": "/products/sports-gloves-10240060",
+    "description": "Protect your hands during sports activities with our Sports Gloves. These gloves provide excellent grip, flexibility, and durability for various sports, including cycling, weightlifting, and more.",
+    "specification": [
+      "Material: Synthetic leather and fabric",
+      "Color: Black",
+      "Usage: Cycling, weightlifting, and more",
+      "Available Sizes: S, M, L"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-60-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-60-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-60-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-60-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-60-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-60-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-60-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-60-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-60-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-60-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-60-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-60-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 10 },
+      { "type": "M", "quantity": 16 },
+      { "type": "L", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 19.99,
+      "withDiscount": 16.99,
+      "discountPercentage": 15
+    },
+    "performance": {
+      "sales": 0,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "sports gloves",
+      "hand protection",
+      "excellent grip",
+      "versatile use"
+    ]
+  },
+  {
+    "product_id": "SKU-10240061",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Sports Helmet",
+    "path": "/products/sports-helmet-10240061",
+    "description": "Stay safe during your sports adventures with our Sports Helmet. This helmet provides reliable head protection and comfort for a variety of sports activities, such as cycling, skateboarding, and more.",
+    "specification": [
+      "Material: EPS foam and ABS shell",
+      "Color: Various",
+      "Usage: Cycling, skateboarding, and more",
+      "Available Sizes: S, M, L"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-61-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-61-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-61-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-61-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-61-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-61-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-61-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-61-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-61-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-61-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-61-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-61-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "S", "quantity": 10 },
+      { "type": "M", "quantity": 16 },
+      { "type": "L", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 39.99,
+      "withDiscount": 34.99,
+      "discountPercentage": 12
+    },
+    "performance": {
+      "sales": 8,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "sports helmet",
+      "head protection",
+      "comfortable fit",
+      "versatile use"
+    ]
+  },
+  {
+    "product_id": "SKU-10240062",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Stainless Steel Lift Tools",
+    "path": "/products/stainless-steel-lift-tools-10240062",
+    "description": "Upgrade your weightlifting routine with our Stainless Steel Lift Tools. These tools are built for durability and grip, helping you lift weights with confidence and precision.",
+    "specification": [
+      "Material: Stainless steel",
+      "Type: Weightlifting tools",
+      "Quantity: Set of 2 tools"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-62-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-62-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-62-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-62-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-62-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-62-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-62-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-62-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-62-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-62-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-62-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-62-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 12 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 29.99,
+      "withDiscount": 24.99,
+      "discountPercentage": 17
+    },
+    "performance": {
+      "sales": 16,
+      "ratingAverage": 4.66666667,
+      "ratingCount": 3
+    },
+    "keywords": [
+      "stainless steel lift tools",
+      "weightlifting equipment",
+      "durability and grip",
+      "precision lifting"
+    ]
+  },
+  {
+    "product_id": "SKU-10240063",
+    "category_id": "CAT-0007",
+    "category": "Sports",
+    "title": "Ski Board",
+    "path": "/products/ski-board-10240063",
+    "description": "Experience the thrill of downhill skiing with our Ski Board. This compact ski board is designed for speed and control, making it a fun choice for snow sport enthusiasts.",
+    "specification": [
+      "Material: High-density polyethylene",
+      "Color: Red/White",
+      "Recommended Use: Downhill skiing",
+      "Length: 36 inches"
+    ],
+    "images": {
+      "800x900": [
+        "https://nexton-cdn.github.io/products/800x900/product-63-1.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-63-2.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-63-3.webp",
+        "https://nexton-cdn.github.io/products/800x900/product-63-4.webp"
+      ],
+      "320x360": [
+        "https://nexton-cdn.github.io/products/320x360/product-63-1.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-63-2.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-63-3.webp",
+        "https://nexton-cdn.github.io/products/320x360/product-63-4.webp"
+      ],
+      "160x180": [
+        "https://nexton-cdn.github.io/products/160x180/product-63-1.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-63-2.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-63-3.webp",
+        "https://nexton-cdn.github.io/products/160x180/product-63-4.webp"
+      ]
+    },
+    "stock": [
+      { "type": "One Size", "quantity": 3 }
+    ],
+    "price": {
+      "currency": "USD",
+      "withoutDiscount": 89.99,
+      "withDiscount": 79.99,
+      "discountPercentage": 11
+    },
+    "performance": {
+      "sales": 5,
+      "ratingAverage": null,
+      "ratingCount": 0
+    },
+    "keywords": [
+      "ski board",
+      "downhill skiing",
+      "speed and control",
+      "snow sport"
+    ]
+  }
+]

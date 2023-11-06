@@ -1,0 +1,109 @@
+[
+  {
+    "collection_id": "COL-0001",
+    "title": "For Men's",
+    "description": "Starting at $24",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/for-mens.webp",
+    "path": "/collections/for-mens",
+    "products": [
+      "SKU-10240001",
+      "SKU-10240003",
+      "SKU-10240004",
+      "SKU-10240005",
+      "SKU-10240006",
+      "SKU-10240007",
+      "SKU-102400027",
+      "SKU-102400030",
+      "SKU-102400028",
+      "SKU-102400029"
+    ]
+  },
+  {
+    "collection_id": "COL-0002",
+    "title": "Black Friday Sale",
+    "description": "Up to 40% off",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/black-friday-sale.webp",
+    "path": "/collections/black-friday-sale",
+    "products": [
+      "SKU-10240009",
+      "SKU-10240022",
+      "SKU-10240032",
+      "SKU-10240058",
+      "SKU-10240010",
+      "SKU-10240015"
+    ]
+  },
+  {
+    "collection_id": "COL-0003",
+    "title": "For Women's",
+    "description": "Starting at $19",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/for-womens.webp",
+    "path": "/collections/for-womens",
+    "products": [
+      "SKU-10240008",
+      "SKU-10240009",
+      "SKU-10240010",
+      "SKU-10240011",
+      "SKU-10240012",
+      "SKU-10240017",
+      "SKU-10240018"
+    ]
+  },
+  {
+    "collection_id": "COL-0004",
+    "title": "Best Sellers",
+    "description": "Explore popular products",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/best-sellers.webp",
+    "path": "/collections/best-sellers",
+    "products": [
+      "SKU-10240008",
+      "SKU-10240027",
+      "SKU-10240011",
+      "SKU-10240016",
+      "SKU-10240003",
+      "SKU-10240030",
+      "SKU-10240005",
+      "SKU-10240062",
+      "SKU-10240053",
+      "SKU-10240007"
+    ]
+  },
+  {
+    "collection_id": "COL-0005",
+    "title": "New Arrivals",
+    "description": "Explore new arrivals",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/new-arrivals.webp",
+    "path": "/collections/new-arrivals",
+    "products": [
+      "SKU-10240063",
+      "SKU-10240062",
+      "SKU-10240055",
+      "SKU-10240054",
+      "SKU-10240043",
+      "SKU-10240042",
+      "SKU-10240035",
+      "SKU-10240034",
+      "SKU-10240026",
+      "SKU-10240025",
+      "SKU-10240018",
+      "SKU-10240017",
+      "SKU-10240007",
+      "SKU-10240006"
+    ]
+  },
+  {
+    "collection_id": "COL-0006",
+    "title": "Top Rated",
+    "description": "Explore top rated products",
+    "thumbnail": "https://nexton-cdn.github.io/thumbnails/collections/top-rated.webp",
+    "path": "/collections/top-rated",
+    "products": [
+      "SKU-10240016",
+      "SKU-10240027",
+      "SKU-10240003",
+      "SKU-10240008",
+      "SKU-10240053",
+      "SKU-10240062"
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "product_id": "SKU-10240003",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "This Men's Casual Hoodie is truly amazing! The quality is excellent, and it can be worn comfortably. It's both stylish and comfortable; I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I absolutely love this hoodie! It's incredibly comfortable and the quality is outstanding. It's become my go-to choice for a stylish and cozy hoodie. Highly recommended!"
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 4,
+        "comment": "The Men's Casual Hoodie is a great choice. It's comfortable and stylish, and the quality is impressive. I'd recommend it for sure."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240004",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I'm extremely impressed with the Men's Sports T-shirt. The quality is top-notch, and it's incredibly comfortable during workouts. It's a must-have for any active individual. I couldn't be happier with my purchase!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240005",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I love the Sport Backpack. It's stylish, high-quality, and offers ample storage. Highly recommended!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 4,
+        "comment": "The Sport Backpack is great. Stylish and practical, it offers good quality and ample storage. Recommended!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240007",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I absolutely love the Men's Winter Top Jacket. It's both stylish and warm, making it perfect for the winter season. The quality is outstanding, and I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I really like the Men's Winter Top Jacket. It's a stylish and warm choice for the winter. The quality is quite good, and I would recommend it."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240008",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Classic Black Leather Handbag is stunning. It's elegant and high-quality. Highly recommended!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Classic Black Leather Handbag is an absolute gem. It's a perfect blend of style and quality, exuding elegance at its finest. I can't recommend it enough!"
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 4,
+        "comment": "The Classic Black Leather Handbag is a great choice. It combines style and quality effectively. I would recommend it for those seeking an elegant accessory."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240011",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Ivory Color Handbag is a true beauty. Its elegant design and top-notch quality make it a perfect accessory. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Ivory Color Handbag is a stylish choice. Its quality and design are impressive. I would recommend it for those looking for a chic accessory."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240012",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 4,
+        "comment": "The Soft Jean Jacket is a great find. It's stylish and comfortable, and the quality is quite good. I would recommend it to others."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240014",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Women Fur Overcoat is a true winter essential. It's both stylish and incredibly warm, and the quality is exceptional. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Women Fur Overcoat is an absolute winner. It's not only stylish but also incredibly warm, making it the perfect winter choice. The quality is top-notch, and I highly recommend it!"
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 3,
+        "comment": "The Women Fur Overcoat is decent. It provides some warmth and has an okay design. It might work for some, but there could be better options out there."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240016",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Women's Jean Short is a fantastic choice. It's stylish, comfortable, and of top-notch quality. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Women's Jean Shorts are amazing! They fit perfectly and are super comfortable. I'm really happy with my purchase."
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 5,
+        "comment": "I absolutely love these Women's Jean Shorts. They are incredibly comfortable and fit perfectly. A great addition to my summer wardrobe!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240027",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Black Automatic Watch is exceptional. It's not only stylish but also reliable, and the quality is top-notch. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Black Automatic Watch is a solid choice. It's stylish and dependable, and the quality is impressive. I would recommend it to others."
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Black Automatic Watch is a great pick. It's both stylish and reliable, and the quality is quite impressive. I would recommend it to anyone in need of a good watch."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240028",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Black Leather Wallet is fantastic. It's not only stylish but also very functional, and the quality is exceptional. I highly recommend it!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240030",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Brown Classic Watch is outstanding. It's a perfect blend of style and functionality, and the quality is top-notch. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Brown Classic Watch is a true gem. It combines timeless style with top-notch quality, and I couldn't be happier with my choice. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240034",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Men's Colorful Belt is a standout accessory. It adds a stylish pop of color to any outfit, and the quality is excellent. I highly recommend it!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240038",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 4,
+        "comment": "Endermic Oil is quite effective. It offers the benefits I was looking for, and I'm satisfied with its performance. A good choice!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240041",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Makeup Brush is a must-have in any beauty kit. It's versatile and high-quality, making makeup application a breeze. I highly recommend it!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Makeup Brush is a game-changer. It's versatile and of top-notch quality, making my makeup routine a breeze. I couldn't be happier with it. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240049",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Men's Black Shoes are simply outstanding. They're stylish, comfortable, and the quality is top-notch. I highly recommend them!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 4,
+        "comment": "These Men's Black Shoes are a great choice. They're stylish, comfortable, and the quality is quite good. I would recommend them to others."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240050",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "The Sport Super Shoes are a game-changer. They're not only stylish but also incredibly comfortable, and the quality is top-notch. I highly recommend them!"
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240053",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Women Sport Shoes are a fantastic choice. They're stylish, comfortable, and the quality is top-notch. I highly recommend them!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Women Sport Shoes are simply fantastic. They're stylish and the quality is top-notch. I highly recommend them!"
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 4,
+        "comment": "These Women Sport Shoes are a great pick. They're stylish, comfortable, and the quality is quite impressive. I would recommend them to others."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240057",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Pushup Tools are a game-changer. They make workouts more effective, and the quality is outstanding. I highly recommend them!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 4,
+        "comment": "Pushup Tools are a great addition to my workout routine. They enhance the effectiveness of my workouts, and the quality is quite impressive. I would recommend them."
+      }
+    ]
+  },
+  {
+    "product_id": "SKU-10240062",
+    "rating": [
+      {
+        "user_id": "6543ddbe726b61b3a847bc6f",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Stainless Steel Lift Tools are a real game-changer. They're durable and versatile, and the quality is top-notch. I highly recommend them!"
+      },
+      {
+        "user_id": "6543ddd1726b61b3a847bc73",
+        "status": "approved",
+        "rate": 5,
+        "comment": "These Stainless Steel Lift Tools are absolutely fantastic. They're durable, versatile, and the quality is top-notch. I highly recommend them!"
+      },
+      {
+        "user_id": "6543dde5726b61b3a847bc77",
+        "status": "approved",
+        "rate": 4,
+        "comment": "Stainless Steel Lift Tools have been a reliable addition to my toolkit. They're durable and versatile, and the quality is quite impressive. I would recommend them to others."
+      }
+    ]
+  }
+]
